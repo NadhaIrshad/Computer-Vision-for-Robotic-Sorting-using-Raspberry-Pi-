@@ -6,6 +6,9 @@ Drive link - https://drive.google.com/drive/folders/15ZJ4-zU8YvsemE-W0d0O8GkKfo2
 
 Robotic sorting using computer vision enhances automation by enabling robots to identify, classify, and sort objects based on visual data. This technology is widely used in industries such as manufacturing, logistics, and waste management.  
 
+![image](https://github.com/user-attachments/assets/9235cede-9692-446e-b5ba-74acc29d35ca)
+
+
 #### **How It Works**  
 1. **Image Acquisition**: Cameras and sensors (RGB, depth, infrared) capture images or videos of objects on a conveyor belt or workspace.  
 2. **Preprocessing**: Images are processed to improve quality using techniques like filtering, noise reduction, and edge detection.  
