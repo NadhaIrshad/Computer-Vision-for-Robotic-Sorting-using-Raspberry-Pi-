@@ -109,8 +109,11 @@ if cv2.waitKey(1) & 0xFF == ord('q'):
 cv2.destroyAllWindows()
 picam2.stop()
 ```
+### Testing 
 
 ---
+![Screenshot 2025-04-03 172432](https://github.com![Screenshot 2025-04-03 171813](https://github.com/user-attachments/assets/ce6b3f1f-b4ba-4442-8f1d-2bf9be1577ab)
+/user-attachments/assets/aa62e5c8-5301-40e8-97a4-4d628f96a7b0)
 
 **5. Conclusion**  
 This color detection algorithm effectively identifies objects of specific colors using a Raspberry Pi and Pi Camera module. The flow of execution includes camera initialization, frame capturing, color filtering, pixel counting, and decision-making. Minor issues were identified and corrected to ensure smooth operation. Future improvements could include adaptive color thresholding and enhanced noise reduction techniques.
