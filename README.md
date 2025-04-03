@@ -28,4 +28,3 @@ Robotic sorting using computer vision enhances automation by enabling robots to 
 ✅ **Scalability** – Can handle a wide variety of objects and categories.  
 ✅ **Cost-Effectiveness** – Reduces operational costs over time.  
 
-Would you like a more technical breakdown, like the specific models or hardware used in R-sorting? 🚀
