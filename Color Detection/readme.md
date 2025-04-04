@@ -1,4 +1,4 @@
-**Title:** Color Detection Algorithm Using Raspberry Pi and Pi Camera Module  
+** Color Detection Algorithm Using Raspberry Pi and Pi Camera Module ** 
 
 **1. Introduction**  
 This report details the implementation and workflow of a real-time color detection algorithm using a Raspberry Pi and a Pi Camera module. The algorithm captures live video frames, processes them to detect specific colors (yellow, blue, and green), and provides instructions based on the detected colors.
